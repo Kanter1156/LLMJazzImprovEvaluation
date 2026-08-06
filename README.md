@@ -28,14 +28,12 @@ Features
       -Motif development
       -Harmonic alignment
       -Actionable suggestions for improvement
-5. Downloadable evaluation reports
 
 Repository Contents
 1. Pitch extraction and note segmentation
 2. Chord timeline generation
-3. Prompt construction
-4. Example inputs and outputs
-5. Code used in the accompanying research paper
-6. Citation
+3. LLM Prompt
+4. Example Response
+5. Citation
 
 If you use this repository in academic work, please cite the accompanying paper once it becomes available.
