@@ -1,1 +1,17 @@
+Flask==2.3.3
+numpy==1.23.5
+scipy==1.10.1
+librosa==0.10.0
+soundfile==0.12.1
+pretty_midi==0.2.10
+requests==2.31.0
+python-dotenv==1.0.0
+openai>=1.0.0
+gunicorn==21.2.0
+memory-profiler==0.61.0
+numba==0.57.1
+llvmlite==0.40.1
+tensorflow-cpu==2.15.0
 
+
+#It is neccesary to use to a less recent version of Python (e.g. Python 3.10) so that Tensorflow can be installed.
