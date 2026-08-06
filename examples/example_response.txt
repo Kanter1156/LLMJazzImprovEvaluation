@@ -1,1 +1,19 @@
+Example feedback produced by the proposed framework given to an intermediate jazz pianist.
+
+
+Instrument: Piano
+Tempo: 160
+Time Signature: 4/4
+First Measure: 1.695231s
+Phrase Structure
+The solo demonstrates a generally clear phrase structure, with groupings of notes that seem to delineate musical ideas. Phrases tend to be around 4-8 beats long, creating a conversational feel. However, some phrases feel a bit abrupt, lacking a strong sense of resolution or melodic completion.
+Harmonic Alignment
+Overall, the solo shows a decent understanding of the underlying harmony, but there are moments where the note choices don't fully align with the chord changes. Over the Bb7 chords, there's a tendency to stay within a narrow range of notes, sometimes neglecting the broader possibilities of the Bb7 scale (which includes alterations). During the F7 chord, the solo could benefit from incorporating more of the F7 altered scale to create more tension and release. The Eb7 chords are generally handled well, but occasionally, notes outside the Eb7 dominant scale create a dissonant clash without a clear resolution.
+Motif Building
+The solo exhibits some interesting motivic development, particularly the recurring use of the G-Ab-Bb pitch sequence. This creates a recognizable melodic thread throughout the solo. However, these motifs could be more consistently developed and varied to create a stronger sense of narrative. While there are moments of melodic contour, the solo sometimes lacks a clear direction or goal, resulting in a somewhat meandering feel. Exploring rhythmic variations of these motifs would also add depth and interest.
+Actionable Feedback
+The solo has a strong foundation and demonstrates a good ear for phrasing. The use of chromatic passing tones is effective in creating interest, but sometimes they lack a clear harmonic purpose. Here are some suggestions to elevate the improvisation:
+1. **Expand Chord Scale Vocabulary:** When improvising over the Bb7 chord, consciously incorporate notes from the altered scale (b9, #9, #11, b13) to add color and tension. For example, try incorporating a Db (b9) or E (b13) over the Bb7. 
+2. **Motific Development with Rhythmic Variation:** Take the recurring G-Ab-Bb sequence and experiment with different rhythms and articulations. Try playing it as a triplet, a dotted rhythm, or with a syncopated feel. This will add rhythmic interest and reinforce the motif.
+3. **Target Chord Tones on Strong Beats:** Ensure that important chord tones (root, 3rd, 5th, 7th) land on strong beats (1 and 3) to create a stronger harmonic foundation. This will help ground the improvisation and make it more cohesive.
 
