@@ -1,4 +1,5 @@
 import librosa
+from config import SLOWDOWN_FACTOR
 
 def load_audio(audio_path, slowdown_factor):
     y, sr = librosa.load(audio_path, sr=None)
