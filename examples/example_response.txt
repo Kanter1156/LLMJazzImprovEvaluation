@@ -1,5 +1,7 @@
-Example feedback produced by the proposed framework given to an intermediate jazz pianist.
 
+----------------------------------------------------------
+Example feedback produced by the proposed framework given to an intermediate jazz pianist.
+----------------------------------------------------------
 
 Instrument: Piano
 Tempo: 160
