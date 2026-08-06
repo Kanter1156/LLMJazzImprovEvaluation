@@ -6,17 +6,17 @@ The system converts an uploaded audio recording into a symbolic representation o
 Pipeline
 
 Audio Recording
-      ↓
+      ->
 CREPE Pitch Detection
-      ↓
+      ->
 Note Segmentation
-      ↓
+      ->
 Chord Timeline Construction
-      ↓
+      ->
 Symbolic Representation
-      ↓
+      ->
 LLM Analysis
-      ↓
+      ->
 Structured Feedback
 
 Features
