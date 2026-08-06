@@ -1,4 +1,4 @@
-# AIJazzImprovEvaluation
+# LLMJazzImprovEvaluation
 This repository accompanies the research paper "Computational Analysis of Jazz Improvisation: Integrating CREPE Pitch Detection with Language Model Feedback." This research prototype generates structured feedback for jazz improvisations by combining automatic pitch estimation with LLM feedback.
 The system converts an uploaded audio recording into a symbolic representation of notes using the CREPE pitch estimation model, aligns the transcription with a user-provided chord progression, and uses a large language model to analyze phrase structure, harmonic alignment, motif development, and opportunities for improvement.
 
